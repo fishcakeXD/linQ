@@ -1,0 +1,8 @@
+C:\Users\魚酥~\跨域黑客\B10810059-柯翰聲-LINQ\1A2B\bin\Debug\1A2B.exe.config
+C:\Users\魚酥~\跨域黑客\B10810059-柯翰聲-LINQ\1A2B\bin\Debug\1A2B.exe
+C:\Users\魚酥~\跨域黑客\B10810059-柯翰聲-LINQ\1A2B\bin\Debug\1A2B.pdb
+C:\Users\魚酥~\跨域黑客\B10810059-柯翰聲-LINQ\1A2B\obj\Debug\1A2B.csproj.AssemblyReference.cache
+C:\Users\魚酥~\跨域黑客\B10810059-柯翰聲-LINQ\1A2B\obj\Debug\1A2B.csproj.SuggestedBindingRedirects.cache
+C:\Users\魚酥~\跨域黑客\B10810059-柯翰聲-LINQ\1A2B\obj\Debug\1A2B.csproj.CoreCompileInputs.cache
+C:\Users\魚酥~\跨域黑客\B10810059-柯翰聲-LINQ\1A2B\obj\Debug\1A2B.exe
+C:\Users\魚酥~\跨域黑客\B10810059-柯翰聲-LINQ\1A2B\obj\Debug\1A2B.pdb
